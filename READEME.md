@@ -1,1 +1,1 @@
-this file belong to readme file
+This is a README file for monty project
